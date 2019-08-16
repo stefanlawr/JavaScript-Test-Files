@@ -1,0 +1,6 @@
+Stefan Strauch	Apple	80 	2
+Stefan Strauch	Blender	200	1
+Stefan Strauch	Knife	10	4
+Domenico Maisano	Waffle Iron	80	1
+Domenico Maisano	Knife	10	2
+Domenico Maisano	Pan	20	3
