@@ -1,0 +1,23 @@
+{
+  "name": "JavaScript-Test-Files",
+  "version": "0.0.0",
+  "description": "This is a repository to store my example problems, code snippets, and various other exercises done using JavaScript. Here you will find a bunch of snippets based on newer features of JavaScript that illustrate my growth with the language. The goal of this repo is to 'master' JavaScript by understanding how the language works, understanding the functional side of the language, and to make my programs a bit more concise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanlawr/JavaScript-Test-Files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanlawr/JavaScript-Test-Files/issues"
+  },
+  "homepage": "https://github.com/stefanlawr/JavaScript-Test-Files#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
